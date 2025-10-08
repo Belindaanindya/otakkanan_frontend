@@ -1,70 +1,84 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
 
-## Available Scripts
+# Coworking Space Rental Website
 
-In the project directory, you can run:
+A web-based platform designed to simplify the process of booking coworking and office spaces online. This project was developed during my internship at **PT. Otak Kanan Surabaya** as part of a team responsible for building the front-end system.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Demo Link
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+🎥 Video demo available (showing Coworking Space Rental Website in action)
 
-### `npm test`
+Link: https://drive.google.com/file/d/1jL1cd2sjx41hdG5iWB2IBWcQjXqEHsU4/view?usp=sharing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Business Understanding
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+**Background:**
+With the rapid growth of technology, digital services have become essential for modern users. PT. Otak Kanan Surabaya recognized the opportunity to digitize space rental services, as online systems for booking office spaces were still uncommon. The goal was to build a **web-based coworking space rental platform** to make the booking process faster, easier, and more efficient for users.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+**Problem:**
+People who want to rent office space often need to spend extra time and money searching manually for suitable places because there is no centralized online platform for such bookings.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Solution:**
+The team developed a **Coworking Space Rental Website** with features such as **booking**, **preview booking**, **cancel booking**, **search**, **location**, and **recommendation** using **React.js** as the main framework. This website helps users book coworking spaces effectively and supports PT. Otak Kanan in managing digital business opportunities.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Data Understanding
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+The website system uses two main datasets:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* **Owner Data:** Information from office space owners who list their rental properties.
+* **User Data:** Login and registration details for customers who want to book coworking spaces.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+---
 
-## Learn More
+## Screenshots / Visualizations
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Includes **Activity Diagrams** illustrating system workflow and feature interactions.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<img width="672" height="540" alt="Untitled presentation (6)_copy" src="https://github.com/user-attachments/assets/18c66e27-ec3a-4ae2-a243-ebd8fbcd7ba2" />
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## Technologies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+* **Frontend:** HTML, CSS, JavaScript, Bootstrap, React.js
+* **Version Control:** Git, GitHub
 
-### Making a Progressive Web App
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Setup Instructions
 
-### Advanced Configuration
+1. Clone the repository.
+2. Install dependencies using `npm install`.
+3. Run the project with `npm start`.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
+## Approach
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+* **Literature Study:** Learned React.js concepts, UI structure, and supporting web technologies.
+* **Interview & Discussion:** Conducted team discussions and mentoring sessions with supervisors at PT. Otak Kanan to align system requirements.
+* **Development & Implementation:** Built the front-end with a focus on usability, responsiveness, and clean interface design.
+* **System Testing:** Performed feature testing to ensure smooth functionality across components.
 
-### `npm run build` fails to minify
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Status
+
+✅ Completed
+
+---
+
+## Credits
+
+**Frontend Web Developer Team:**
+Sarah Ummul Afifah | Belinda Anindya Kusuma Wardhani | Gebriela Rifka Duanti
+
+---
